@@ -1,4 +1,4 @@
-# LaTeX author support for the International Press book series *Proceedings of the International Congress of Chinese Mathematicians* (*ICCMP*)
+# International Press book series ICCMP author support
 
 ## Table of Contents
 
@@ -61,15 +61,15 @@ The preamble of your LaTeX document should look like this:
 
 \begin{document}
 
-    \begin{abstract}
-        ...
-    \end{abstract}
+\begin{abstract}
+...
+\end{abstract}
 
-    \maketitle
+\maketitle
 
-    \tableofcontents
+\tableofcontents
 
-    Your manuscript content
+Your manuscript content
 
 \end{document}
 ```

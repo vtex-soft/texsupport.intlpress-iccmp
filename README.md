@@ -12,7 +12,7 @@
 ## About
 
 Author support service provides LaTeX style files and `*.tex` file templates designed for International Press book series
-Proceedings of the International Congress of Chinese Mathematicians (ICCMP) manuscripts.
+Proceedings of the International Consortium of Chinese Mathematicians (ICCMP) manuscripts.
 
 ## Package content
 
